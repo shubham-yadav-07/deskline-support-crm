@@ -4,7 +4,7 @@ A full-stack customer support ticketing system: create tickets, search and filte
 
 **Live app:** https://deskline-support-crm.onrender.com/
 
-**Demo video:** _add your video link here_
+**Demo video:** https://youtu.be/dpSu1dF0pqk
 
 ---
 
