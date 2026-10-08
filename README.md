@@ -2,8 +2,6 @@
 
 A full-stack customer support ticketing system: create tickets, search and filter the queue, and update ticket status with internal notes — built for a small support team handling requests across multiple channels.
 
-**Live app:** https://deskline-support-crm.onrender.com/
-
 **Demo video:** https://youtu.be/dpSu1dF0pqk
 
 ---
